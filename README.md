@@ -11,3 +11,5 @@
 > * Encabezado y pie de página.
 > * Numeración de páginas
 > * Alineación de párrafos 
+---
+Adjunto link [[archivo](https://docs.google.com/document/d/1HPOTl00kb_0SZHstv0pTvL_UFkuemNfuId4D690Jfp8/edit?usp=drivesdk)]
